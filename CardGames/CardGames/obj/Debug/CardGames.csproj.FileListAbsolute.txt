@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\CardGames\CardGames\bin\Debug\CardGames.exe.config
+C:\Users\Hp\source\repos\CardGames\CardGames\bin\Debug\CardGames.exe
+C:\Users\Hp\source\repos\CardGames\CardGames\bin\Debug\CardGames.pdb
+C:\Users\Hp\source\repos\CardGames\CardGames\obj\Debug\CardGames.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\CardGames\CardGames\obj\Debug\CardGames.exe
+C:\Users\Hp\source\repos\CardGames\CardGames\obj\Debug\CardGames.pdb
